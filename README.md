@@ -1,2 +1,3 @@
 # Bulid-With-Shruti
-This is a my first Repository
+This is a my first Git Repository
+Author- Shruti Pawar
